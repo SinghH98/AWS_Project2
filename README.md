@@ -12,4 +12,4 @@ Highlights:
 
 - AWS Cloud Formation to create a VPC
 - Connect VPC with AWS SNS
-- Publish message privately with SNS
+- Publish message privately with SNS.
